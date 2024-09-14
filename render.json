@@ -26,5 +26,21 @@
       { "match": "#FCD900", "replace": "#E16C6C" },
       { "match": "#6D3C1B", "replace": "#1B0707" }
     ]
+  },
+  "Banana-Catppuccin-Mocha": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Catppuccin-Mocha",
+    "colors": [
+      { "match": "#FCD900", "replace": "#F9E2AF" },
+      { "match": "#6D3C1B", "replace": "#11111B" }
+    ]
+  },
+  "Banana-Tokyo-Night-Storm": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Tokyo-Night-Storm",
+    "colors": [
+      { "match": "#FCD900", "replace": "#9D7CD8" },
+      { "match": "#6D3C1B", "replace": "#24283B" }
+    ]
   }
 }
