@@ -27,12 +27,28 @@
       { "match": "#6D3C1B", "replace": "#1B0707" }
     ]
   },
+  "Banana-Hacker": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Hacker",
+    "colors": [
+      { "match": "#FCD900", "replace": "#00FE00" },
+      { "match": "#6D3C1B", "replace": "#000000" }
+    ]
+  },
   "Banana-Catppuccin-Mocha": {
     "dir": "svg",
     "out": "bitmaps/Banana-Catppuccin-Mocha",
     "colors": [
       { "match": "#FCD900", "replace": "#F9E2AF" },
       { "match": "#6D3C1B", "replace": "#45475A" }
+    ]
+  },
+  "Banana-Dracula": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Dracula",
+    "colors": [
+      { "match": "#FCD900", "replace": "#282A36" },
+      { "match": "#6D3C1B", "replace": "#F8F8F2" }
     ]
   },
   "Banana-Tokyo-Night-Storm": {
