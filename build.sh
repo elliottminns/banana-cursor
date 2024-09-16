@@ -44,7 +44,7 @@ for key in "${!names[@]}"; do
   comment="${names[$key]}"
   cfg=$(get_config_file key)
 
-  ctgen "configs/x.$cfg" -p x11 -s 16 18 24 32 48 64 96 192 256 -d "bitmaps/$key" -n "$key" -c "$comment XCursors" &
+  ctgen "configs/x.$cfg" -s 8 12 16 24 32 48 64 96 128 192 256 -p x11 -d "bitmaps/$key" -n "$key" -c "$comment XCursors" &
   PID=$!
   wait $PID
 done

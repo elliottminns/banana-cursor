@@ -32,7 +32,7 @@
     "out": "bitmaps/Banana-Catppuccin-Mocha",
     "colors": [
       { "match": "#FCD900", "replace": "#F9E2AF" },
-      { "match": "#6D3C1B", "replace": "#11111B" }
+      { "match": "#6D3C1B", "replace": "#45475A" }
     ]
   },
   "Banana-Tokyo-Night-Storm": {
